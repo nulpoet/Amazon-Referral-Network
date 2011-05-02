@@ -1,0 +1,33 @@
+1:22:8  -  Database already initialised
+1:22:8  -  [cache] Cache cleaned.
+1:22:8  -  [debug] todolist has 1 nodes
+1:22:49  -  [graph] node added with title : Rousseau&amp;amp;#39;s Political Writings: Discourse on Inequality, Discourse on Political Economy,  On Social Contract (Norton Critical Editions) (Paperback)
+1:22:49  -  [graph] edge added 
+----Rousseau&amp;amp;#39;s Political Writings: Discourse on Inequality, Discourse on Political Economy,  On Social Contract (Norton Critical Editions) (Paperback)
+----The Economic and Philosophic Manuscripts of 1844 and the Communist Manifesto (Great Books in Philosophy) (Paperback)
+
+1:22:49  -  [debug] ******** bad string : Pensées and Other Writings (Oxford World&#39;s Classics) (Paperback)
+1:22:49  -  
+
+[error]   *****  urlencode failed : edge not added 
+----Rousseau&amp;amp;#39;s Political Writings: Discourse on Inequality, Discourse on Political Economy,  On Social Contract (Norton Critical Editions) (Paperback)
+----Pensées and Other Writings (Oxford World&#39;s Classics) (Paperback)
+
+
+1:22:49  -  [graph] edge added 
+----Rousseau&amp;amp;#39;s Political Writings: Discourse on Inequality, Discourse on Political Economy,  On Social Contract (Norton Critical Editions) (Paperback)
+----The Periodic Table (Paperback)
+
+1:22:49  -  [graph] edge added 
+----Rousseau&amp;amp;#39;s Political Writings: Discourse on Inequality, Discourse on Political Economy,  On Social Contract (Norton Critical Editions) (Paperback)
+----To the Lighthouse (Paperback)
+
+1:22:49  -  [graph] edge added 
+----Rousseau&amp;amp;#39;s Political Writings: Discourse on Inequality, Discourse on Political Economy,  On Social Contract (Norton Critical Editions) (Paperback)
+----Beyond Good and Evil (Paperback)
+
+1:22:49  -  [graph] edge added 
+----Rousseau&amp;amp;#39;s Political Writings: Discourse on Inequality, Discourse on Political Economy,  On Social Contract (Norton Critical Editions) (Paperback)
+----The Souls of Black Folk (Dover Thrift Editions) (Paperback)
+
+1:22:49  -  [debug] ******** bad string : Pensées and Other Writings (Oxford World&#39;s Classics) (Paperback)
